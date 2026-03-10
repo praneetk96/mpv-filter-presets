@@ -38,32 +38,14 @@ The script provides a simple on-screen menu to preview and apply presets that co
 
 ---
 
-## Installation
+## How to install
 
-1. Locate your mpv configuration directory.
+Locate your mpv configuration directory. On Windows it's ususally at `%APPDATA%\mpv\scripts\` and on Linux / macOS at `~/.config/mpv/scripts/`.
 
-### Windows
-
-`%APPDATA%\mpv\scripts\`
-
-### Linux / macOS
-
-`~/.config/mpv/scripts/`
-
-2. Copy the script file:
-
-`mpv-filter-presets.lua`
-
-into the `scripts` folder.
-
-3. Restart mpv.
+Copy the script file: `mpv-filter-presets.lua` into the `scripts` folder.
 
 ---
 
-## Usage
+## How to use
 
-Press: `F6`
-
-Controls:
-
-↑ / ↓ Preview presets >> Enter Apply preset >> ESC Cancel
+Press: `F6` to bring the filter menu. Use up or down key ↑ / ↓ to preview presets, enter to apply the preset >> ESC to close the menu
