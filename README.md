@@ -55,4 +55,4 @@ Copy the script file: `mpv-filter-presets.lua` into the `scripts` folder.
 
 ## How to use
 
-Press: `F6` to bring the filter menu. Use up or down key ↑ / ↓ to preview presets, enter to apply the preset >> ESC to close the menu
+Press: `F6` to bring the filter menu. Use up or down key ↑ / ↓ to preview presets, enter to apply the preset or ESC to close the menu
