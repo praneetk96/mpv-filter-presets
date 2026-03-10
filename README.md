@@ -1,10 +1,17 @@
 # mpv-filter-presets
-Interactive filter preset menu for mpv (F6) with preview and quick switching.
-![Menu Preview](assets/preview.gif)
 
-Interactive filter preset menu for **mpv** that lets you quickly switch between different video enhancement profiles.
+![License](https://img.shields.io/badge/license-MIT-green)
+![mpv](https://img.shields.io/badge/mpv-0.35%2B-blue)
+![Language](https://img.shields.io/badge/language-Lua-orange)
 
-The script provides a simple on-screen menu to preview and apply presets that combine color adjustments, sharpening, and debanding.
+Interactive filter preset menu for **mpv** (F6) with preview and quick switching.
+
+<p align="center">
+  <img src="assets/preview.gif" width="720">
+</p>
+
+Quickly switch between video enhancement profiles using an on-screen preset menu.  
+Includes presets with color adjustments, sharpening, and debanding.
 
 ---
 
