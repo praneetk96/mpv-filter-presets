@@ -65,6 +65,4 @@ Press: `F6`
 
 Controls:
 
-↑ / ↓ Preview presets
-Enter Apply preset
-ESC Cancel
+↑ / ↓ Preview presets >> Enter Apply preset >> ESC Cancel
