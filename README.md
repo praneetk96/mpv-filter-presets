@@ -1,5 +1,6 @@
 # mpv-filter-presets
 Interactive filter preset menu for mpv (F6) with preview and quick switching.
+![Menu Preview](assets/preview.gif)
 
 Interactive filter preset menu for **mpv** that lets you quickly switch between different video enhancement profiles.
 
