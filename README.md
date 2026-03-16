@@ -15,6 +15,20 @@ Includes presets with color adjustments, sharpening, and debanding.
 
 ---
 
+## How to install
+
+Locate your mpv configuration directory. On Windows it's ususally at `%APPDATA%\mpv\scripts\` and on Linux / macOS at `~/.config/mpv/scripts/`.
+
+Copy the script file: `mpv-filter-presets.lua` into the `scripts` folder.
+
+---
+
+## How to use
+
+Press: `F6` to bring the filter menu. Use up or down key ↑ / ↓ to preview presets, enter to apply the preset or ESC to close the menu
+
+---
+
 ## Features
 
 - Interactive preset menu
@@ -42,17 +56,3 @@ Includes presets with color adjustments, sharpening, and debanding.
 - Soft Pastel
 - Vivid
 - Warm Tone
-
----
-
-## How to install
-
-Locate your mpv configuration directory. On Windows it's ususally at `%APPDATA%\mpv\scripts\` and on Linux / macOS at `~/.config/mpv/scripts/`.
-
-Copy the script file: `mpv-filter-presets.lua` into the `scripts` folder.
-
----
-
-## How to use
-
-Press: `F6` to bring the filter menu. Use up or down key ↑ / ↓ to preview presets, enter to apply the preset or ESC to close the menu
